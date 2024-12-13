@@ -23,3 +23,5 @@ pnpm-lock.yaml
 *.njsproj
 *.sln
 *.sw?
+# auto
+components.d.ts
